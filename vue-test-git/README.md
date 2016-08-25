@@ -1,4 +1,4 @@
-
+简单的vue+webpack应用demo
 ```
 安装
 npm install
